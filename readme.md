@@ -1,0 +1,1 @@
+# With the purpose of learning programming, these exercises were coded    
