@@ -1,3 +1,3 @@
 # With the purpose of learning programming, these exercises were coded    
 
-## Learning is a process
+## To learn something, you need to start building
